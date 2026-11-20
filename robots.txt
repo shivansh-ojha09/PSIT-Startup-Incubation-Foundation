@@ -1,0 +1,6 @@
+```text
+User-agent: *
+Allow: /
+
+Sitemap: https://psitsif.co.in/sitemap.xml
+```
